@@ -76,4 +76,4 @@ The latest version will be available on this page.
 
 For privacy questions or requests concerning BoatDayz, please contact:
 
-**[Insert BoatDayz support email address]**
+** boatdayzapp@gmail.com **
